@@ -3,8 +3,8 @@
 namespace TomorrowIdeas\Plaid\Tests;
 
 use Capsule\Response;
-use Shuttle\Handler\MockHandler;
-use Shuttle\Shuttle;
+use Nimbly\Shuttle\Handler\MockHandler;
+use Nimbly\Shuttle\Shuttle;
 use TomorrowIdeas\Plaid\Plaid;
 use TomorrowIdeas\Plaid\PlaidRequestException;
 
