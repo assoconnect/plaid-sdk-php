@@ -2,9 +2,9 @@
 
 namespace TomorrowIdeas\Plaid\Tests;
 
-use Capsule\Request;
-use Capsule\Response;
-use Capsule\ResponseStatus;
+use Nimbly\Capsule\Request;
+use Nimbly\Capsule\Response;
+use Nimbly\Capsule\ResponseStatus;
 use Nimbly\Shuttle\Handler\MockHandler;
 use Nimbly\Shuttle\Shuttle;
 use TomorrowIdeas\Plaid\Plaid;

@@ -2,7 +2,7 @@
 
 namespace TomorrowIdeas\Plaid\Tests;
 
-use Capsule\Response;
+use Nimbly\Capsule\Response;
 use Nimbly\Shuttle\Handler\MockHandler;
 use Nimbly\Shuttle\Shuttle;
 use TomorrowIdeas\Plaid\Plaid;

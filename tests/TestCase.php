@@ -2,8 +2,8 @@
 
 namespace TomorrowIdeas\Plaid\Tests;
 
-use Capsule\Request;
-use Capsule\Response;
+use Nimbly\Capsule\Request;
+use Nimbly\Capsule\Response;
 use PHPUnit\Framework\TestCase as PHPUnitTestCase;
 use Nimbly\Shuttle\Handler\MockHandler;
 use Nimbly\Shuttle\Shuttle;
